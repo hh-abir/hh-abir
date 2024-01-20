@@ -1,6 +1,6 @@
 [![MasterHead](https://t3.ftcdn.net/jpg/01/94/01/00/360_F_194010093_9tC5JNVsiEOlVDs2F5Y6d0paYrdWTdbT.jpg)](https://github.com/milliardaire-04)
 <h1 align="center">Hi 👋, I'm Abir</h1>
-<h3 align="center">A passionate full stack developer from Bangladesh</h3>
+<h3 align="center">A passionate full stack developer from Planet Earth</h3>
 <img src="https://www.icegif.com/wp-content/uploads/2022/01/icegif-179.gif" alt="Coding" align="right" width="400">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=milliardaire-04&label=Profile%20views&color=0e75b6&style=flat" alt="milliardaire-04" /> </p>
