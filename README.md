@@ -15,10 +15,10 @@
 
 <div align="left">
   <ul>
-    <li>🔭 I’m currently working on <b>Ecommerce App</b></li>
-    <li>🌱 I’m currently learning <b>Golang</b></li>
-    <li>👯 I’m looking to collaborate on <b>Flutter based projects</b></li>
-    <li>💬 Ask me about <b>Flutter, Django, Fast API, React JS, Next JS</b></li>
+    <li>🔭 I’m currently working on <b>Fintech Solution</b></li>
+    <li>🌱 I’m currently learning <b>Golang and Spring Boot</b></li>
+    <li>👯 I’m looking to collaborate on <b>Web based solution for startups</b></li>
+    <li>💬 Ask me about <b>Flutter, Django, Fast API, React JS, Next JS, Golang</b></li>
     <li>📫 How to reach me <b>abir_04@outlook.com</b></li>
   </ul>
 </div>
