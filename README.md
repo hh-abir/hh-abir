@@ -77,14 +77,14 @@
         <b>3. AI & RAG Engine</b><br/><br/>
         <img src="https://img.shields.io/badge/OpenAI_API-3b0764?style=flat-square&logo=openai&logoColor=c084fc" alt="OpenAI" /><br/>
         <img src="https://img.shields.io/badge/Anthropic_Claude-3b0764?style=flat-square&logo=anthropic&logoColor=c084fc" alt="Claude" /><br/>
-        <img src="https://img.shields.io/badge/RAG_&_Vector_Search-3b0764?style=flat-square&logo=databricks&logoColor=c084fc" alt="RAG" /><br/>
+        <img src="https://img.shields.io/badge/RAG_and_Vector_Search-3b0764?style=flat-square&logo=databricks&logoColor=c084fc" alt="RAG" /><br/>
         <sub>Token Streaming • Agents</sub>
       </td>
       <td align="center" width="25%">
         <b>4. Data & Cloud Infra</b><br/><br/>
         <img src="https://img.shields.io/badge/Redis_%2B_PostgreSQL-064e3b?style=flat-square&logo=redis&logoColor=34d399" alt="Data" /><br/>
         <img src="https://img.shields.io/badge/Docker_%2B_Jenkins-064e3b?style=flat-square&logo=docker&logoColor=34d399" alt="DevOps" /><br/>
-        <img src="https://img.shields.io/badge/GCP_%26_AWS_Cloud-064e3b?style=flat-square&logo=googlecloud&logoColor=34d399" alt="Cloud" /><br/>
+        <img src="https://img.shields.io/badge/GCP_%2B_AWS_Cloud-064e3b?style=flat-square&logo=googlecloud&logoColor=34d399" alt="Cloud" /><br/>
         <sub>CI/CD • Containerized</sub>
       </td>
     </tr>
@@ -144,43 +144,21 @@
 
 ---
 
-### 🚀 Featured Engineering Work
+### 🏛️ Core Engineering Pillars
 
 <table>
   <tr>
-    <td width="50%" valign="top">
-      <h3 align="left">🖥️ P2P Remote Desktop Engine (AnyDesk Clone)</h3>
-      <p>Low-latency remote desktop and screen-sharing platform engineered for real-time peer-to-peer media and control streaming.</p>
-      <ul>
-        <li><b>Architecture:</b> WebRTC data/media channels with custom signaling & session negotiation.</li>
-        <li><b>Stack:</b> React, Next.js, TypeScript, WebRTC, WebSockets.</li>
-      </ul>
+    <td width="33%" valign="top">
+      <h4 align="center">🤖 AI-Native Integration</h4>
+      <p align="center">Embedding OpenAI & Anthropic models into existing products using custom RAG pipelines, vector indexing, and real-time SSE token streaming.</p>
     </td>
-    <td width="50%" valign="top">
-      <h3 align="left">💬 Minimalist Real-Time Social Platform</h3>
-      <p>High-speed social application focused on clean minimalism, instant messaging, and resilient session security.</p>
-      <ul>
-        <li><b>Architecture:</b> Real-time bidirectional chat, optimistic UI updates, and Better Auth session flows.</li>
-        <li><b>Stack:</b> Next.js, React, REST APIs, Better Auth, SSE / WebSockets.</li>
-      </ul>
+    <td width="33%" valign="top">
+      <h4 align="center">🔄 System Modernization</h4>
+      <p align="center">Refactoring monolithic and legacy codebases into containerized, cloud-native microservices with automated Jenkins CI/CD and zero-downtime delivery.</p>
     </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="left">🧠 AI & RAG-Powered Application Backends</h3>
-      <p>Production backend services connecting OpenAI and Anthropic models to domain data with low-latency streaming.</p>
-      <ul>
-        <li><b>Architecture:</b> Retrieval-Augmented Generation (RAG), Redis caching, and SSE token streaming.</li>
-        <li><b>Stack:</b> Go, Python, FastAPI, OpenAI/Anthropic APIs, Redis, PostgreSQL.</li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="left">⚡ High-Concurrency Go & Cloud Services</h3>
-      <p>Scalable microservices and modernized legacy systems built for high concurrency, observability, and automated delivery.</p>
-      <ul>
-        <li><b>Architecture:</b> gRPC inter-service communication, Dockerized deployments, and Jenkins CI/CD on GCP.</li>
-        <li><b>Stack:</b> Go, gRPC, Docker, Jenkins, GCP, Linux.</li>
-      </ul>
+    <td width="33%" valign="top">
+      <h4 align="center">⚡ Low-Latency Scale</h4>
+      <p align="center">Engineering high-concurrency Go and Python services backed by gRPC, Redis caching layers, WebSockets, and WebRTC peer-to-peer channels.</p>
     </td>
   </tr>
 </table>
@@ -190,16 +168,17 @@
 ### 📊 GitHub Telemetry & Activity
 
 <div align="center">
-  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=hh-abir&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats" />
-  <img height="175em" src="https://github-readme-streak-stats.herokuapp.com/?user=hh-abir&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=hh-abir&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=hh-abir&theme=tokyonight" alt="GitHub Stats" />
 </div>
 
 <div align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hh-abir&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hh-abir&theme=tokyonight" alt="Top Languages" />
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hh-abir&theme=tokyonight" alt="Commit Languages" />
 </div>
 
 <div align="center">
-  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=hh-abir&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
+  <img width="95%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hh-abir&theme=tokyonight" alt="Contribution Graph" />
 </div>
 
 <!-- Animated Footer Wave -->
