@@ -1,81 +1,206 @@
 <div align="center">
+
+  <!-- Animated Wave Header (XML-Safe) -->
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a8a,100:0284c7&height=220&section=header&text=Hasib%20Hossain%20Abir&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Backend%20%2B%20Cloud%20Application%20Engineer%20%7C%20AI%20Systems%20Integrator&descAlignY=58&descSize=18" alt="Header" />
+
+  <!-- Animated Typing SVG (XML-Safe) -->
   <a href="https://github.com/hh-abir">
-    <img src="https://t3.ftcdn.net/jpg/01/94/01/00/360_F_194010093_9tC5JNVsiEOlVDs2F5Y6d0paYrdWTdbT.jpg" alt="MasterHead" border="0" style="border-radius: 15px;"/>
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&lines=Architecting+High-Concurrency+Backends+in+Go+and+Python;Connecting+LLMs%2C+RAG+Pipelines+and+AI+to+Production+Apps;Modernizing+Legacy+Systems+into+Cloud-Native+Architectures;Building+Low-Latency+Real-Time+Systems+(gRPC%2C+WebRTC%2C+SSE)" alt="Typing SVG" />
   </a>
+
+  <br/>
+
+  <!-- Profile Views & Quick Connect Badges -->
+  <p align="center">
+    <img src="https://komarev.com/ghpvc/?username=hh-abir&label=Profile%20Views&color=0284c7&style=for-the-badge" alt="Profile Views" />
+    <a href="mailto:abir4dev@gmail.com">
+      <img src="https://img.shields.io/badge/Email-abir4dev%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+    </a>
+    <a href="https://linkedin.com/in/hh-abir" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <a href="https://x.com/hh_abir" target="_blank">
+      <img src="https://img.shields.io/badge/X-Follow-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
+    </a>
+    <a href="https://fb.com/hasibhossain.abir.7/" target="_blank">
+      <img src="https://img.shields.io/badge/Facebook-Connect-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+    </a>
+  </p>
 </div>
-
-<h1 align="center">Hi 👋, I'm Abir</h1>
-<h3 align="center">A passionate full stack developer from Planet Earth 🌍</h3>
-
-<p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=hh-abir&label=Profile%20views&color=0e75b6&style=flat" alt="hh-abir" /> 
-</p>
-
-<img src="https://www.icegif.com/wp-content/uploads/2022/01/icegif-179.gif" alt="Coding" align="right" width="400">
-
-<div align="left">
-  <ul>
-    <li>🔭 I’m currently working on <b>Fintech Solution</b></li>
-    <li>🌱 I’m currently learning <b>Golang and Spring Boot</b></li>
-    <li>👯 I’m looking to collaborate on <b>Web based solution for startups</b></li>
-    <li>💬 Ask me about <b>Flutter, Django, Fast API, React JS, Next JS, Golang</b></li>
-    <li>📫 How to reach me <b>abir_04@outlook.com</b></li>
-  </ul>
-</div>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://fb.com/hasibhossain.abir.7/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-  <a href="https://appwrite.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/appwriteio/appwriteio-icon.svg" alt="appwrite" width="40" height="40"/> </a> 
-  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> 
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
-  <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> 
-  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-icon.svg" alt="django" width="40" height="40"/> </a> 
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> 
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> 
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> 
-  <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> 
-  <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> 
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-  <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> 
-  <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> 
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> 
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
-  <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/> </a> 
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/nextjs/nextjs-icon.svg" alt="nextjs" width="40" height="40"/> </a> 
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> 
-  <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
-  <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> 
-  <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/selenium/selenium-icon.svg" alt="selenium" width="40" height="40"/> </a> 
-  <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> 
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> 
-  <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webpack/webpack-original.svg" alt="webpack" width="40" height="40"/> </a> 
-</p>
 
 ---
 
-### 📊 Stats & Activity
+### ⚡ About Me & Engineering Focus
+
+<img align="right" width="380" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Developer Workspace" />
+
+<div align="left">
+  <p>
+    <img src="https://img.shields.io/badge/Focus-Cloud_and_AI_Systems-0284c7?style=flat-square" alt="Focus" />
+    <img src="https://img.shields.io/badge/Architecture-Microservices_and_gRPC-10b981?style=flat-square" alt="Architecture" />
+    <img src="https://img.shields.io/badge/Status-Building_and_Scaling-8b5cf6?style=flat-square" alt="Status" />
+  </p>
+
+  <ul>
+    <li>🚀 <b>What I Do:</b> Engineer scalable cloud backends, modernize legacy systems, and wire production applications directly into AI/LLM pipelines.</li>
+    <li>🧠 <b>AI Integration:</b> Building real-time <b>RAG pipelines</b>, semantic search, and low-latency token streaming using <b>OpenAI</b> & <b>Anthropic</b> APIs.</li>
+    <li>⚙️ <b>High-Concurrency Backends:</b> Designing resilient APIs and distributed services with <b>Go</b>, <b>Python (FastAPI)</b>, <b>TypeScript</b>, <b>gRPC</b>, and <b>Redis</b>.</li>
+    <li>☁️ <b>Cloud & DevOps:</b> Containerizing workloads with <b>Docker</b>, automating CI/CD via <b>Jenkins</b>, and deploying on <b>GCP</b> & <b>AWS</b>.</li>
+    <li>📫 <b>Reach Me:</b> <a href="mailto:abir4dev@gmail.com"><b>abir4dev@gmail.com</b></a></li>
+  </ul>
+</div>
+
+<br clear="both"/>
+
+---
+
+### 🧩 How I Architect & Connect Systems
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hh-abir&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark" alt="Top Langs" />
+  <table>
+    <tr>
+      <td align="center" width="23%">
+        <b>1. Client & Edge</b><br/><br/>
+        <img src="https://img.shields.io/badge/Next.js_%2F_React-0f172a?style=flat-square&logo=nextdotjs&logoColor=38bdf8" alt="Next.js" /><br/>
+        <img src="https://img.shields.io/badge/Flutter_Mobile-0f172a?style=flat-square&logo=flutter&logoColor=38bdf8" alt="Flutter" /><br/>
+        <img src="https://img.shields.io/badge/WebRTC_P2P-0f172a?style=flat-square&logo=webrtc&logoColor=38bdf8" alt="WebRTC" /><br/>
+        <sub>REST • SSE • WebSockets</sub>
+      </td>
+      <td align="center" width="27%">
+        <b>2. API & Core Services</b><br/><br/>
+        <img src="https://img.shields.io/badge/Go_Microservices-1e3a8a?style=flat-square&logo=go&logoColor=white" alt="Go" /><br/>
+        <img src="https://img.shields.io/badge/Python_FastAPI-1e3a8a?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" /><br/>
+        <img src="https://img.shields.io/badge/gRPC_%2B_Better_Auth-1e3a8a?style=flat-square&logo=google&logoColor=white" alt="gRPC" /><br/>
+        <sub>High-Concurrency • Low Latency</sub>
+      </td>
+      <td align="center" width="25%">
+        <b>3. AI & RAG Engine</b><br/><br/>
+        <img src="https://img.shields.io/badge/OpenAI_API-3b0764?style=flat-square&logo=openai&logoColor=c084fc" alt="OpenAI" /><br/>
+        <img src="https://img.shields.io/badge/Anthropic_Claude-3b0764?style=flat-square&logo=anthropic&logoColor=c084fc" alt="Claude" /><br/>
+        <img src="https://img.shields.io/badge/RAG_&_Vector_Search-3b0764?style=flat-square&logo=databricks&logoColor=c084fc" alt="RAG" /><br/>
+        <sub>Token Streaming • Agents</sub>
+      </td>
+      <td align="center" width="25%">
+        <b>4. Data & Cloud Infra</b><br/><br/>
+        <img src="https://img.shields.io/badge/Redis_%2B_PostgreSQL-064e3b?style=flat-square&logo=redis&logoColor=34d399" alt="Data" /><br/>
+        <img src="https://img.shields.io/badge/Docker_%2B_Jenkins-064e3b?style=flat-square&logo=docker&logoColor=34d399" alt="DevOps" /><br/>
+        <img src="https://img.shields.io/badge/GCP_%26_AWS_Cloud-064e3b?style=flat-square&logo=googlecloud&logoColor=34d399" alt="Cloud" /><br/>
+        <sub>CI/CD • Containerized</sub>
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
+### 🛠️ Tech Stack & Tooling
+
+<div align="center">
+
+#### **Languages, Backend & APIs**
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![gRPC](https://img.shields.io/badge/gRPC-244c5a?style=for-the-badge&logo=google&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+
+#### **AI & LLM Integration**
+![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Anthropic](https://img.shields.io/badge/Anthropic_Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+![RAG Pipelines](https://img.shields.io/badge/RAG_Pipelines-0284C7?style=for-the-badge&logo=databricks&logoColor=white)
+![Vector Search](https://img.shields.io/badge/Vector_Search-10B981?style=for-the-badge&logo=elasticsearch&logoColor=white)
+![SSE Streaming](https://img.shields.io/badge/SSE_and_WebSockets-6366F1?style=for-the-badge&logo=socketdotio&logoColor=white)
+
+#### **Cloud, DevOps & Databases**
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+#### **Frontend & Cross-Platform**
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![WebRTC](https://img.shields.io/badge/WebRTC-333333?style=for-the-badge&logo=webrtc&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+<br/>
+
+<!-- Unified Skill Icons Dock -->
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=go,py,ts,docker,jenkins,gcp,aws,redis,postgres,mongodb,fastapi,nextjs,react,flutter,linux,git&perline=8" alt="Tech Dock" />
+</p>
+
+</div>
+
+---
+
+### 🚀 Featured Engineering Work
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="left">🖥️ P2P Remote Desktop Engine (AnyDesk Clone)</h3>
+      <p>Low-latency remote desktop and screen-sharing platform engineered for real-time peer-to-peer media and control streaming.</p>
+      <ul>
+        <li><b>Architecture:</b> WebRTC data/media channels with custom signaling & session negotiation.</li>
+        <li><b>Stack:</b> React, Next.js, TypeScript, WebRTC, WebSockets.</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="left">💬 Minimalist Real-Time Social Platform</h3>
+      <p>High-speed social application focused on clean minimalism, instant messaging, and resilient session security.</p>
+      <ul>
+        <li><b>Architecture:</b> Real-time bidirectional chat, optimistic UI updates, and Better Auth session flows.</li>
+        <li><b>Stack:</b> Next.js, React, REST APIs, Better Auth, SSE / WebSockets.</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="left">🧠 AI & RAG-Powered Application Backends</h3>
+      <p>Production backend services connecting OpenAI and Anthropic models to domain data with low-latency streaming.</p>
+      <ul>
+        <li><b>Architecture:</b> Retrieval-Augmented Generation (RAG), Redis caching, and SSE token streaming.</li>
+        <li><b>Stack:</b> Go, Python, FastAPI, OpenAI/Anthropic APIs, Redis, PostgreSQL.</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="left">⚡ High-Concurrency Go & Cloud Services</h3>
+      <p>Scalable microservices and modernized legacy systems built for high concurrency, observability, and automated delivery.</p>
+      <ul>
+        <li><b>Architecture:</b> gRPC inter-service communication, Dockerized deployments, and Jenkins CI/CD on GCP.</li>
+        <li><b>Stack:</b> Go, gRPC, Docker, Jenkins, GCP, Linux.</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+---
+
+### 📊 GitHub Telemetry & Activity
+
+<div align="center">
+  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=hh-abir&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats" />
+  <img height="175em" src="https://github-readme-streak-stats.herokuapp.com/?user=hh-abir&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hh-abir&show_icons=true&locale=en&theme=vision-friendly-dark" alt="GitHub Stats" />
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hh-abir&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hh-abir&theme=vision-friendly-dark" alt="Streak Stats" />
+  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=hh-abir&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
 </div>
+
+<!-- Animated Footer Wave -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0284c7,50:1e3a8a,100:0f172a&height=110&section=footer" alt="Footer" />
